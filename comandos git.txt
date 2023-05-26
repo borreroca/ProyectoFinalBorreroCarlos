@@ -1,0 +1,19 @@
+git config user.name "user"
+git config user.email email
+git status {te dice que estado esta el commit}
+git add . {Agrega todo}
+git add nombre_archivo {agrega solo el archivo}
+git commit -m "descripción" {guarda el commit con el comentario agregado)
+git branch {dice en que rama estas y cuales más hay}
+git branch nombre_nueva_rama {crea una nueva rama copia de la rama actual}
+git checkout nombre_rama_existente {te mueve a otra rama existente}
+git restore file {remueve cambios hechos en file que no se quieran guardar}
+git log --oneline {muestra historial de commits(?}
+git merge name_branch {absorbe la rama name_branch a la rama actual}
+git branch -d name_branch {borra la rama name_branch}
+
+
+--github--
+git init {inicializa repositorio}
+git push
+

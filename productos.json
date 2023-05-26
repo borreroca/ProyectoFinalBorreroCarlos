@@ -1,0 +1,215 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre": "Televisor SAMSUNG 50 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"SAMSUNG",
+            "precio": 386
+        },
+        {
+            "id":2,
+            "nombre": "Televisor SAMSUNG 60 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"SAMSUNG",
+            "precio": 430
+        },
+        {
+            "id":3,
+            "nombre": "Televisor HISENSE 43 pulgadas HD",
+            "categoria": "Televisor",
+            "marca":"HISENSE",
+            "precio": 254
+        },
+        {
+            "id":4,
+            "nombre": "Televisor HISENSE 58 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"HISENSE",
+            "precio": 400
+        },
+        {
+            "id":5,
+            "nombre": "Televisor SAMSUNG 40 pulgadas fHD",
+            "categoria": "Televisor",
+            "marca":"SAMSUNG",
+            "precio": 260
+        },
+        {
+            "id":6,
+            "nombre": "Televisor SAMSUNG 65 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"SAMSUNG",
+            "precio": 525
+        },
+        {
+            "id":7,
+            "nombre": "Televisor SAMSUNG 55 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"SAMSUNG",
+            "precio": 410
+        },
+        {
+            "id":8,
+            "nombre": "Televisor LG 70 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"LG",
+            "precio": 525
+        },
+        {
+            "id":9,
+            "nombre": "Televisor CAIXUN 43 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"CAIXUN",
+            "precio": 260
+        },
+        {
+            "id":10,
+            "nombre": "Televisor LG 65 pulgadas 4k",
+            "categoria": "Televisor",
+            "marca":"LG",
+            "precio": 495
+        },
+        {
+            "id":11,
+            "nombre": "Portatil ASUS i5-12500H",
+            "categoria": "Portatil",
+            "marca":"ASUS",
+            "precio": 707
+        },
+        {
+            "id":12,
+            "nombre": "Portatil HP i5-1135G7",
+            "categoria": "Portatil",
+            "marca":"HP",
+            "precio": 460
+        },
+        {
+            "id":13,
+            "nombre": "Portatil ASUS Ryzen 5 4500U",
+            "categoria": "Portatil",
+            "marca":"ASUS",
+            "precio": 465
+        },
+        {
+            "id":14,
+            "nombre": "Portatil HP i5-12500H",
+            "categoria": "Portatil",
+            "marca":"HP",
+            "precio": 707
+        },
+        {
+            "id":15,
+            "nombre": "Portatil ASUS i5-1240p",
+            "categoria": "Portatil",
+            "marca":"ASUS",
+            "precio": 680
+        },
+        {
+            "id":16,
+            "nombre": "Portatil HP i3-1115G",
+            "categoria": "Portatil",
+            "marca":"HP",
+            "precio": 390
+        },
+        {
+            "id":17,
+            "nombre": "Portatil LENOVO Ryzen 5 5500U",
+            "categoria": "Portatil",
+            "marca":"LENOVO",
+            "precio": 435
+        },
+        {
+            "id":18,
+            "nombre": "Portatil ASUS i3-1005G",
+            "categoria": "Portatil",
+            "marca":"ASUS",
+            "precio": 345
+        },
+        {
+            "id":19,
+            "nombre": "Portatil ASUS i5-1035G",
+            "categoria": "Portatil",
+            "marca":"ASUS",
+            "precio": 375
+        },
+        {
+            "id":20,
+            "nombre": "Portatil LENOVO intel pentium",
+            "categoria": "Portatil",
+            "marca":"LENOVO",
+            "precio": 300
+        },
+        {
+            "id":21,
+            "nombre": "Celular SAMSUNG Galaxy M13",
+            "categoria": "Celular",
+            "marca":"SAMSUNG",
+            "precio": 243
+        },
+        {
+            "id":22,
+            "nombre": "Celular Xiaomi Redmi Note 11",
+            "categoria": "Celular",
+            "marca":"Xiaomi",
+            "precio": 160
+        },
+        {
+            "id":23,
+            "nombre": "Celular SAMSUNG Galaxy A33",
+            "categoria": "Celular",
+            "marca":"SAMSUNG",
+            "precio": 310
+        },
+        {
+            "id":24,
+            "nombre": "Celular SAMSUNG Galaxy A22",
+            "categoria": "Celular",
+            "marca":"SAMSUNG",
+            "precio": 168
+        },
+        {
+            "id":25,
+            "nombre": "Celular Motorola Moto G12",
+            "categoria": "Celular",
+            "marca":"Motorola",
+            "precio": 199
+        },
+        {
+            "id":26,
+            "nombre": "Celular SAMSUNG Galaxy M13",
+            "categoria": "Celular",
+            "marca":"SAMSUNG",
+            "precio": 243
+        },
+        {
+            "id":27,
+            "nombre": "Celular Xiaomi Redmi Note 11S",
+            "categoria": "Celular",
+            "marca":"Xiaomi",
+            "precio": 250
+        },
+        {
+            "id":28,
+            "nombre": "Celular Motorola Moto G52",
+            "categoria": "Celular",
+            "marca":"Motorola",
+            "precio": 220
+        },
+        {
+            "id":29,
+            "nombre": "Celular Xiaomi Redmi Note 12",
+            "categoria": "Celular",
+            "marca":"Xiaomi",
+            "precio": 265
+        },
+        {
+            "id":30,
+            "nombre": "Celular SAMSUNG Galaxy A53",
+            "categoria": "Celular",
+            "marca":"SAMSUNG",
+            "precio": 390
+        }       
+    ]
+    
+}
